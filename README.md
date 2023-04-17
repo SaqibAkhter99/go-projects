@@ -19,5 +19,3 @@ To get started with these Golang projects, you can follow the instructions below
     ```
     cd golang-projects
     ```
-3. Explore the projects and choose the one you want to work with.
-
