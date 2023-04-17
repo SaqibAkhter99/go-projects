@@ -1,6 +1,6 @@
 # Golang Projects Repository
 
-This repository is dedicated to hosting my projects related to the Go programming language (Golang). The repository contains various Go projects that I have created or contributed to.
+This repository is dedicated to hosting my projects related to the Go programming language (Golang). The repository contains various Go projects that I have created.
 
 ## Project List
 
