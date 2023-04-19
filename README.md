@@ -6,7 +6,7 @@ This repository is dedicated to hosting my projects related to the Go programmin
 
 - **Project 1**: Static Web Application.
 - **Project 2**: CURD Operation and Testing the endpoints on Postman.
-...
+
 ## Getting Started
 
 To get started with these Golang projects, you can follow the instructions below:
